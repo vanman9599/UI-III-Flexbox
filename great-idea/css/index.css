@@ -66,6 +66,7 @@ h1, h2, h3, h4, h5 {
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 h3{
 	font-size: 20px;
+	
 }
 h1{
 	font-size: 60px;
@@ -259,4 +260,8 @@ h1{
 		width: 150px;
 		border-radius: 10px;
 		margin: 10px;
+	}
+
+	.services-header-img{
+		margin-bottom: 20px;
 	}
